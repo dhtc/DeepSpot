@@ -1,0 +1,1 @@
+pip install clang grpcio h5py keras numpy six tensorboard tensorboard-data-server tensorflow-estimator typing-extensions
